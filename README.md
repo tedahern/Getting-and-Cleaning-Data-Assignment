@@ -12,7 +12,7 @@ The following three lines of code are included to meet the requirement to extrac
 
 Next, I continue to tidy up the variable names by converting them to all lowercase, per the course lecture recommendations.
 
-In the next six lines, I use cbind commands to add the information about the specific activities and subjects associated with each measurement, and name the new variables accordingly. Also note that I make the activity variable a factor variable, and then replace the numeric values with descriptive ones, fulfilling requirement 3 of the assignment.
+In the next seven lines, I use cbind commands to add the information about the specific activities and subjects associated with each measurement, and name the new variables accordingly. Also note that I make the activity variable a factor variable, and then replace the numeric values with descriptive ones, fulfilling requirement 3 of the assignment.
 
 The next seven lines of code are there to rename the variable names again, this time replacing the shortened descriptions obtained from the features.txt file with ones that are more easily readable. Per course lecture, readable variable names are a principle of tidy data; I looked to the features_info.txt for more complete descriptions of the variables.
 
